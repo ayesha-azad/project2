@@ -5,4 +5,5 @@ This is the new project created from local.
 Ayesha Azad
 
 # status 
-Byrozgar
+Thori kamai
+Mehnat karsan
